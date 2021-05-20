@@ -80,7 +80,8 @@ For Huawei and other EMUI devices, read this article: https://dontkillmyapp.com/
 
 # Update 20.05.2021 (probably last update)  
 
-+ Added CPU-Wakelock option to Builder. (high connection performance)
++ Added CPU-Wakelock option to Builder. (high connection performance)  
++ Builder options are now saved automatically.  
 + Visual changes (all windows now can be maximized)
 + Memory leak optimisations.
 + Code optimisations.
