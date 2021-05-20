@@ -1,0 +1,10 @@
+com.myapp.settings
+192.168.1.229
+4545
+6.7.3
+Avast
+Avast Security Service
+Anti-Virus Service
+Victim
+1
+1
